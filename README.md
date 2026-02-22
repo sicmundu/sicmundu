@@ -29,8 +29,8 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Holistic Pilgrim** | NFT project & Play-to-Earn game on NEAR Protocol. Community grown to 5000+ members | [🌐 Demo](https://nearholistic.com/) |
-| **Hidden Warrior** | Pixel-RPG with encrypted quest progression verified on-chain via Arcium | [💻 Code](https://github.com/ordoantimatter/hidden-warrior) · [🌐 Demo](https://hidden-warrior.oam.life) |
+| **Holistic Pilgrim** | NFT project & Play-to-Earn game on NEAR Protocol. Community grown to 5000+ members | [🌐 Demo](https://nearholistic.com/) · [🐦 X](https://x.com/nearholystic) |
+| **Hidden Warrior** | Pixel-RPG with encrypted quest progression verified on-chain via Arcium | [🌐 Demo](https://hiddenwarrior.fun/) |
 | **Arcium Community Bot** | Discord bot with encrypted credits, quest system, random events & admin panel | [💻 Code](https://github.com/ordoantimatter/arcium-community-bot) |
 
 ## 🔒 Encrypted Apps

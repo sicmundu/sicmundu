@@ -14,6 +14,13 @@
 
 ---
 
+## 🔥 Currently Working On
+
+- 🧠 **Omi** — startup
+- 🔒 **Arcium Tools** — privacy tooling for encrypted apps
+
+---
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,35 +34,45 @@
 
 ## 🌟 Selected Works
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Holistic Pilgrim** | NFT project & Play-to-Earn game on NEAR Protocol. Community grown to 5000+ members | [🌐 Demo](https://nearholistic.com/) · [🐦 X](https://x.com/nearholystic) |
-| **Hidden Warrior** | Pixel-RPG with encrypted quest progression verified on-chain via Arcium | [🌐 Demo](https://hiddenwarrior.fun/) |
-| **Arcium Community Bot** | Discord bot with encrypted credits, quest system, random events & admin panel | [💻 Code](https://github.com/ordoantimatter/arcium-community-bot) |
+| Project | Tags | Links |
+|---------|------|-------|
+| **Holistic Pilgrim** | `NEAR` `NFT` `Play-to-Earn` | [🌐](https://nearholistic.com/) · [🐦](https://x.com/nearholystic) |
+| **Hidden Warrior** | `Next.js` `Solana` `Arcium` | [🌐](https://hiddenwarrior.fun/) |
+| **Arcium Community Bot** | `Discord.js` `Node.js` `Arcium` | closed source |
 
 ## 🔒 Encrypted Apps
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Privacy Scoring** | KYC-lite private credit scoring using garbled MPC protocols | [💻 Code](https://github.com/ordoantimatter/privacy-scoring) · [🌐 Demo](https://privacy-scoring.oam.life) |
-| **Taco Random Generator** | Trustless RNG smart contract on Solana using Arcium MPC | [🌐 Demo](https://trg.sicmundus.dev) |
-| **Saloon Showdown** | PvP duel game with private round calculations via MPC | [🌐 Demo](https://saloon.sicmundus.dev) |
+| Project | Tags | Links |
+|---------|------|-------|
+| **Privacy Scoring** | `gMPC` `Privacy` `Fintech` | [💻](https://github.com/sicmundu/privacy-scoring) · [🌐](https://privacy.oam.life/) |
+| **Taco Random Generator** | `Solana` `Arcium` `MPC` | [🌐](https://trg.sicmundus.dev) |
+| **Saloon Showdown** | `Arcium` `MPC` `PvP` | [🌐](https://saloon.sicmundus.dev) |
 
 ## 🧰 Tools & Libraries
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Arcium Frontend SDK** | Open-source SDK bridging app interfaces with Arcium's encrypted computation layer | [💻 Code](https://github.com/sicmundu/arcium-frontend-sdk) · [🌐 Demo](https://crucibles.dev/) |
-| **Arcium Frontend Skills** | AI agent skills for building encrypted Solana apps with Arcium | [💻 Code](https://github.com/sicmundu/arcium-skills-frontend) |
-| **xSOLANA Analyzer** | Professional Solana transaction analysis tool with monochrome design | [🌐 Demo](https://www.xsolanachecker.xyz/) |
-| **Privacy Utils** | Modular TypeScript library for differential privacy, secure aggregation & anon auth | [💻 Code](https://github.com/sicmundu/privacy-utils) · [📦 npm](https://www.npmjs.com/package/privacy-utils-core-crypto) |
-| **CLI Trace** | Animated SVG stroke tracing for web and terminal with unified API | [💻 Code](https://github.com/sicmundu/cli-trace) |
+| Project | Tags | Links |
+|---------|------|-------|
+| **Arcium Frontend SDK** | `TypeScript` `SDK` `Encryption` | [💻](https://github.com/sicmundu/arcium-frontend-sdk) · [🌐](https://crucibles.dev/) |
+| **Arcium Frontend Skills** | `AI Agents` `Solana` `Arcium` | [💻](https://github.com/sicmundu/arcium-skills-frontend) |
+| **xSOLANA Analyzer** | `Solana` `Analytics` | [🌐](https://www.xsolanachecker.xyz/) |
+| **Privacy Utils** | `TypeScript` `npm` `Privacy` | [💻](https://github.com/sicmundu/privacy-utils) · [📦](https://www.npmjs.com/package/privacy-utils-core-crypto) |
+| **CLI Trace** | `SVG` `Animation` `CLI` | [💻](https://github.com/sicmundu/cli-trace) |
 
 ## 🧪 Experiments
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Halftone Studio** | Web-based dithered art generator — upload images, apply halftone effects | [🌐 Demo](https://hs.sicmundus.dev) |
+| Project | Tags | Links |
+|---------|------|-------|
+| **Halftone Studio** | `Art` `Canvas` `Dithering` | [🌐](https://hs.sicmundus.dev) |
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sicmundu&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 

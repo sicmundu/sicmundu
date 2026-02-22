@@ -1,2 +1,64 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi+my+name+is+sicmundu)](https://git.io/typing-svg)
-Discord: p0kp0k
+<div align="center">
+
+# Hey, I'm Grigory 👋
+
+### Full-stack developer · Open Source Enthusiast
+
+*I build web apps and I'm pretty good at it. I believe open source is a force for good!*
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/p0k_p0k/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sicmundu)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [🔐 Hidden Crucible](https://github.com/sicmundu/arcium-frontend-sdk) | Arcium Frontend SDK — Category: Hidden Crucible |
+| [📖 Arcium Front-end Playbook](https://github.com/sicmundu/arcium-playbook) | Front-end playbook for Arcium ecosystem |
+| [🧬 Encrypted DNA Matching](https://github.com/sicmundu/arcium-dna) | Privacy-preserving DNA matching using Arcium |
+| [⚡ Arcium Program Skill](https://github.com/sicmundu/arcium-program-skill) | On-chain program skill for Arcium |
+| [🎨 Arcium Front-end Skill](https://github.com/sicmundu/arcium-skills-frontend) | Front-end skill demo for Arcium |
+| [🛡️ Privacy Scoring](https://github.com/sicmundu/privacy-scoring-frontend) | Frontend for privacy scoring system |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![sicmundu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sicmundu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sicmundu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sicmundu&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sicmundu&theme=tokyo-night&hide_border=true)
+
+---
+
+<div align="center">
+
+*⭐ If you like my projects — leave a star!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sicmundu&color=blueviolet&style=for-the-badge)
+
+</div>

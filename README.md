@@ -66,16 +66,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sicmundu&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

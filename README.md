@@ -18,6 +18,7 @@
 
 - 🧠 **Omi** — startup
 - 🔒 **Arcium Tools** — privacy tooling for encrypted apps
+- ⏱️ **SillyTrack** — native macOS work tracker
 
 ---
 
@@ -27,6 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
@@ -52,6 +54,7 @@
 
 | Project | Tags | Links |
 |---------|------|-------|
+| **SillyTrack** | `Swift` `macOS` `SwiftUI` | [💻](https://github.com/sicmundu/silly-tracker) |
 | **Arcium Frontend SDK** | `TypeScript` `SDK` `Encryption` | [💻](https://github.com/sicmundu/arcium-frontend-sdk) · [🌐](https://crucibles.dev/) |
 | **Arcium Frontend Skills** | `AI Agents` `Solana` `Arcium` | [💻](https://github.com/sicmundu/arcium-skills-frontend) |
 | **xSOLANA Analyzer** | `Solana` `Analytics` | [🌐](https://www.xsolanachecker.xyz/) |

@@ -16,7 +16,7 @@
 
 ## 🔥 Currently Working On
 
-- 🧠 **Omi** — [!Website](https://youromi.com/)
+- 🧠 **Omi** — [Website](https://youromi.com/)
 - 🔒 **Arcium Tools** — privacy tooling for encrypted apps
 - ⏱️ **SillyTrack** — native macOS work tracker
 

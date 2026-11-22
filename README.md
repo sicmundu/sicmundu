@@ -55,7 +55,7 @@
 | Project | Tags | Links |
 |---------|------|-------|
 | **SillyTrack** | `Swift` `macOS` `SwiftUI` | [💻](https://github.com/sicmundu/silly-tracker) |
-| **Arcium Frontend SDK** | `TypeScript` `SDK` `Encryption` | [💻](https://github.com/sicmundu/arcium-frontend-sdk) · [🌐](https://crucibles.dev/) |
+| **Arcium Frontend SDK** | `TypeScript` `SDK` `Encryption` | [💻](https://github.com/sicmundu/arcium-frontend-sdk) |
 | **Arcium Frontend Skills** | `AI Agents` `Solana` `Arcium` | [💻](https://github.com/sicmundu/arcium-skills-frontend) |
 | **xSOLANA Analyzer** | `Solana` `Analytics` | [🌐](https://www.xsolanachecker.xyz/) |
 | **Privacy Utils** | `TypeScript` `npm` `Privacy` | [💻](https://github.com/sicmundu/privacy-utils) · [📦](https://www.npmjs.com/package/privacy-utils-core-crypto) |
